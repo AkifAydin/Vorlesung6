@@ -6,7 +6,7 @@ public class Pattern_Matching {
     Matcher matcher = pattern.matcher("'Moin Folks");
     boolean doesMatch = matcher.matches();
 
-    
+
 
     public static void main(String[] args) {
 
